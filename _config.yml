@@ -1,8 +1,5 @@
 theme: jekyll-theme-merlot
 
-include:
-  - assets/css/style.css
-
 
 title: Jordan Whyte
 description: Background - Projects - Experience
