@@ -1,7 +1,7 @@
 theme: jekyll-theme-merlot
 
 include:
-  - style.css
+  - assets/css/style.css
 
 
 title: Jordan Whyte
